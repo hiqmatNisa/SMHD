@@ -6,7 +6,8 @@ This repository contains handwritten samples from the SMH dataset and a permissi
 
 #Dataset Repository
 In the central repository, you can see two subfolders .i.e, images and transcription files. Each subfolder in the images folder represents a different category. For instance, summary-based-0001-0055 contains 55 handwritten image documents related to the summary task. Therefore, the images start from 0001 and end with 0055 in this category. Similarly, in the following category, Mathematics-0056-0088, the images begin from 0056 and end with 0088. 
-The second folder contains all the transcriptions files in the form of .txt files corresponding to the images. The transcription is available only at the document level. 
+The second folder contains all the transcriptions files in the form of .txt files corresponding to the images. The transcription is available only at the document level. In the transcription files all the cross-outs are represented with symbol '#' so it will be easy to retrive only those files which has cross-outs or free from cross-outs. 
+![alt text](https://github.com/hiqmatNisa/SMHD/blob/main/0093.jpg?raw=true)
 
 # Dataset Description
 
